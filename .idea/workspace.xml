@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f6d1dc1-1265-49bb-94e8-91fe114f3779" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2n6MCJhAvWAChOE5cQGdB4sOIhf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IdeaProjects/DoAn_CTDL/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\DoAn_CTDL\src" />
+      <recent name="D:\IdeaProjects\DoAn_CTDL\src\Dequy" />
+      <recent name="D:\IdeaProjects\DoAnCTDL\src\dslkDon" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Cay" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.menu">
+    <configuration name="BinaryTreeMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cay.BinaryTreeMenu" />
+      <module name="DoAn_CTDL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelExporter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excel.ExcelExporter" />
+      <module name="DoAn_CTDL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mergesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dequy.sapxep.Mergesort" />
+      <module name="DoAn_CTDL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dequy.sapxep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quicksort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dequy.sapxep.Quicksort" />
+      <module name="DoAn_CTDL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dequy.sapxep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.menu" />
+      <module name="DoAn_CTDL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="DoAnCTDL" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="DoAnCTDL" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.menu" />
+        <item itemvalue="Application.Mergesort" />
+        <item itemvalue="Application.Quicksort" />
+        <item itemvalue="Application.ExcelExporter" />
+        <item itemvalue="Application.BinaryTreeMenu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f6d1dc1-1265-49bb-94e8-91fe114f3779" name="Changes" comment="" />
+      <created>1728288947698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728288947698</updated>
+      <workItem from="1728288948686" duration="233000" />
+      <workItem from="1728289204661" duration="1054000" />
+      <workItem from="1728290362877" duration="687000" />
+      <workItem from="1728626588494" duration="624000" />
+      <workItem from="1728627243902" duration="1640000" />
+      <workItem from="1728633676587" duration="260000" />
+      <workItem from="1728634088653" duration="2987000" />
+      <workItem from="1728912729241" duration="3382000" />
+      <workItem from="1728920452239" duration="9841000" />
+      <workItem from="1728995937727" duration="9186000" />
+      <workItem from="1729006275710" duration="969000" />
+      <workItem from="1729007496524" duration="222000" />
+      <workItem from="1729007902159" duration="305000" />
+      <workItem from="1729008300765" duration="105000" />
+      <workItem from="1729008516213" duration="623000" />
+      <workItem from="1729009368216" duration="100000" />
+      <workItem from="1729187408019" duration="1866000" />
+      <workItem from="1729235484126" duration="1765000" />
+      <workItem from="1729693389537" duration="4174000" />
+      <workItem from="1729758332730" duration="1931000" />
+      <workItem from="1729779111034" duration="6302000" />
+      <workItem from="1729786048098" duration="507000" />
+      <workItem from="1729792946831" duration="4000" />
+      <workItem from="1729792960695" duration="26000" />
+      <workItem from="1729793005878" duration="806000" />
+      <workItem from="1729829022935" duration="617000" />
+      <workItem from="1729952840311" duration="8104000" />
+      <workItem from="1730082465692" duration="7252000" />
+      <workItem from="1730200931373" duration="1438000" />
+      <workItem from="1730216712163" duration="4759000" />
+      <workItem from="1731398454963" duration="1159000" />
+      <workItem from="1731412655550" duration="11493000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
